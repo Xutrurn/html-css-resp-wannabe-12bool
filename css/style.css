@@ -3,25 +3,38 @@ img {
   height: 100px;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 .grey {
   background-color: rgb(245, 245, 245);
   margin-top: 25px;
 }
 
-.row .row{
+.row .row {
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.top{
+.top {
   margin-top: 25px;
 }
 
-h3{
-  padding-bottom: 10px;
+h3 {
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
-.round{
+h2{
+  padding-top: 25px;
+}
+
+span{
+  padding-top: 25px;
+}
+
+.round {
   background-color: #428bca;
   border-radius: 50%;
   padding: 5px;
