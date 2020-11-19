@@ -51,12 +51,13 @@
   float: left;
   height: 100%;
   text-align: center;
-  /* background-color: pink;
-  border: 1px solid black; */
+  /* background-color: pink; */
+  /* border: 1px solid black; */
+
 }
 
 .row .row {
-  /* padding: 5px; */
+  padding: 5px;
 }
 
 .row .row [class*="col-"] {
